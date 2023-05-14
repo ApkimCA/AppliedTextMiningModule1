@@ -7,9 +7,9 @@ Instructions:
 
 2. Choose two musical artists for your project. Both should have at least twenty songs at their artist page on AZLyrics. Those pages have forms like this: https://www.azlyrics.com/r/robyn.html.
 
-3. The file “API and Scrape.ipynb” holds your starting code for this assignment.
-    
-    This file holds starting code for the the assignment. Follow the instructions in that notebook, pulling and storing the lyrics for both artists.
+3. The file “API and Scrape.ipynb” holds your starting code for this assignment.  
+
+    This file holds starting code for the assignment. Follow the instructions in that notebook, pulling and storing the lyrics for both artists. 
 
     The final part of the notebook holds evaluation code. If you’ve completed the assignment correctly, you should be able to just run this section as is.
 
