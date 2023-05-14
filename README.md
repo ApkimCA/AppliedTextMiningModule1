@@ -9,9 +9,9 @@ Instructions:
 
 3. The file “API and Scrape.ipynb” holds your starting code for this assignment.  
 
-    This file holds starting code for the assignment. Follow the instructions in that notebook, pulling and storing the lyrics for both artists. 
+    -This file holds starting code for the assignment. Follow the instructions in that notebook, pulling and storing the lyrics for both artists. 
 
-    The final part of the notebook holds evaluation code. If you’ve completed the assignment correctly, you should be able to just run this section as is.
+    -The final part of the notebook holds evaluation code. If you’ve completed the assignment correctly, you should be able to just run this section as is.
 
 Things to leave out of your repo
 
