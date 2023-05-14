@@ -9,9 +9,9 @@ Instructions:
 
 3. The file “API and Scrape.ipynb” holds your starting code for this assignment.
 
--This file holds starting code for the the assignment. Follow the instructions in that notebook, pulling and storing the lyrics for both artists.
+  -This file holds starting code for the the assignment. Follow the instructions in that notebook, pulling and storing the lyrics for both artists.
 
--The final part of the notebook holds evaluation code. If you’ve completed the assignment correctly, you should be able to just run this section as is.
+  -The final part of the notebook holds evaluation code. If you’ve completed the assignment correctly, you should be able to just run this section as is.
 
 Things to leave out of your repo
 
@@ -19,10 +19,10 @@ Things to leave out of your repo
 
 Assignment Materials:
 
--API and Web Scraping Repository
+  -API and Web Scraping Repository
 
 Deliverables:
 
--When you have finished your code, print your notebook as PDFs and upload these documents to Blackboard.
+  -When you have finished your code, print your notebook as PDFs and upload these documents to Blackboard.
 
--Commit your code and push the changes to GitHub so your instructor has access to the ipynb notebook files and any other code you create.
+  -Commit your code and push the changes to GitHub so your instructor has access to the ipynb notebook files and any other code you create.
